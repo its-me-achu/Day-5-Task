@@ -1,0 +1,79 @@
+{
+    "name":"Archana",
+    "contact" : {
+            "phone": "8838236844",
+            "email" :"achu88382m@gmail.com",
+       "address" :{
+        "no":"3/26 f1",
+        "street":"rayagiri main road",
+        "village":"ullar",
+        "post": "rayagiri",
+        "taluk":"sivagiri",
+        "ditrict":"tenkasi",
+        "pincode":"627757"
+       } 
+     },
+     "educational summary":[
+             {"PG":{
+                "major":"M.sc.Geography",
+                "university":"Thanjai tamil university",
+                "percentage": "61.6%",
+                "passed out":"may-2021"
+ }
+}, 
+{"UG": {
+    "major" :"B.sc.Geography",
+    "collage":"Queen mary's collage",
+     "university":"Madras university",
+     "location":"Chennai",
+     "percentage": "68%",
+     "passed out":"may-2018"
+}
+},
+{"HSC":{
+    "school":"S.S.hsc.school",
+    "location":"Tenkasi",
+    "group":"Maths biology",
+    "mark":"795/1200"
+}
+},{
+    "SSLC":{
+         "school":"R.H.N.U.SI.BA.HSS",
+         "location":"Tenkasi",
+         "mark":"411"
+    }
+}
+],
+"Working experience": {
+        "Nature of job":"Sales",
+        "Role":"Development manager",
+        "comapny":"SBI Life Insurance",
+        "Location" :"Nagercoil",
+        "Tenure":"One year"
+},
+"languages knows":"Tamil & English",
+"skills":{
+    "type writing":"English",
+    "computer course":"PGDCA"
+},
+
+"Personal Informations":{
+"Parents":{
+    "mother name":"Bagiya lakshmi",
+    "father name":"Mappilai durai"
+},
+"DOB":"02.02.1998",
+"Blood group":"A+",
+"Nationality":"Indian",
+"Religion":"Hindhu",
+"Marital status":"Single",
+"Proofs":"Aadhar card,Pan card,Driving licence,Passpot",
+"Reference":{
+    "Name":"M.MuthuRajasekar",
+    "Job":"TN Agri Dept",
+    "Contact no":"7010128243"
+}
+        
+
+}
+}
